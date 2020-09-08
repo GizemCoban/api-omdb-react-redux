@@ -1,0 +1,16 @@
+#StarImdb{
+  position: relative;
+  left: 200px;
+}
+.TableBorder{
+  border: none !important;
+  border-top:1px solid none !important;
+}
+.TableBorderCell{
+  border-top:1px solid none !important;
+}
+.InputDesing{
+  width: 80% !important;
+  border: 3px solid #a333c8 !important;
+}
+
